@@ -6,7 +6,8 @@ name = "silhouette"
 readme = "README.md"
 authors = ["Miguel Piedrafita <rust@miguel.build>"]
 repository = "https://github.com/m1guelpf/silhouette"
-description = "A simple dependency injection library for Rust"
+keywords = ["service-container", "dependency-injection"]
+description = "A simple service container library for Rust"
 
 [dependencies]
 thiserror = "1.0.51"
